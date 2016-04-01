@@ -1,0 +1,2432 @@
+fileFormatVersion: 2
+guid: 7a204618588dfed4497064ffbdafaef6
+timeCreated: 1458862780
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_deimaginator__x1_talk_png_1354836032_0
+    21300002: npc_deimaginator__x1_talk_png_1354836032_1
+    21300004: npc_deimaginator__x1_talk_png_1354836032_2
+    21300006: npc_deimaginator__x1_talk_png_1354836032_3
+    21300008: npc_deimaginator__x1_talk_png_1354836032_4
+    21300010: npc_deimaginator__x1_talk_png_1354836032_5
+    21300012: npc_deimaginator__x1_talk_png_1354836032_6
+    21300014: npc_deimaginator__x1_talk_png_1354836032_7
+    21300016: npc_deimaginator__x1_talk_png_1354836032_8
+    21300018: npc_deimaginator__x1_talk_png_1354836032_9
+    21300020: npc_deimaginator__x1_talk_png_1354836032_10
+    21300022: npc_deimaginator__x1_talk_png_1354836032_11
+    21300024: npc_deimaginator__x1_talk_png_1354836032_12
+    21300026: npc_deimaginator__x1_talk_png_1354836032_13
+    21300028: npc_deimaginator__x1_talk_png_1354836032_14
+    21300030: npc_deimaginator__x1_talk_png_1354836032_15
+    21300032: npc_deimaginator__x1_talk_png_1354836032_16
+    21300034: npc_deimaginator__x1_talk_png_1354836032_17
+    21300036: npc_deimaginator__x1_talk_png_1354836032_18
+    21300038: npc_deimaginator__x1_talk_png_1354836032_19
+    21300040: npc_deimaginator__x1_talk_png_1354836032_20
+    21300042: npc_deimaginator__x1_talk_png_1354836032_21
+    21300044: npc_deimaginator__x1_talk_png_1354836032_22
+    21300046: npc_deimaginator__x1_talk_png_1354836032_23
+    21300048: npc_deimaginator__x1_talk_png_1354836032_24
+    21300050: npc_deimaginator__x1_talk_png_1354836032_25
+    21300052: npc_deimaginator__x1_talk_png_1354836032_26
+    21300054: npc_deimaginator__x1_talk_png_1354836032_27
+    21300056: npc_deimaginator__x1_talk_png_1354836032_28
+    21300058: npc_deimaginator__x1_talk_png_1354836032_29
+    21300060: npc_deimaginator__x1_talk_png_1354836032_30
+    21300062: npc_deimaginator__x1_talk_png_1354836032_31
+    21300064: npc_deimaginator__x1_talk_png_1354836032_32
+    21300066: npc_deimaginator__x1_talk_png_1354836032_33
+    21300068: npc_deimaginator__x1_talk_png_1354836032_34
+    21300070: npc_deimaginator__x1_talk_png_1354836032_35
+    21300072: npc_deimaginator__x1_talk_png_1354836032_36
+    21300074: npc_deimaginator__x1_talk_png_1354836032_37
+    21300076: npc_deimaginator__x1_talk_png_1354836032_38
+    21300078: npc_deimaginator__x1_talk_png_1354836032_39
+    21300080: npc_deimaginator__x1_talk_png_1354836032_40
+    21300082: npc_deimaginator__x1_talk_png_1354836032_41
+    21300084: npc_deimaginator__x1_talk_png_1354836032_42
+    21300086: npc_deimaginator__x1_talk_png_1354836032_43
+    21300088: npc_deimaginator__x1_talk_png_1354836032_44
+    21300090: npc_deimaginator__x1_talk_png_1354836032_45
+    21300092: npc_deimaginator__x1_talk_png_1354836032_46
+    21300094: npc_deimaginator__x1_talk_png_1354836032_47
+    21300096: npc_deimaginator__x1_talk_png_1354836032_48
+    21300098: npc_deimaginator__x1_talk_png_1354836032_49
+    21300100: npc_deimaginator__x1_talk_png_1354836032_50
+    21300102: npc_deimaginator__x1_talk_png_1354836032_51
+    21300104: npc_deimaginator__x1_talk_png_1354836032_52
+    21300106: npc_deimaginator__x1_talk_png_1354836032_53
+    21300108: npc_deimaginator__x1_talk_png_1354836032_54
+    21300110: npc_deimaginator__x1_talk_png_1354836032_55
+    21300112: npc_deimaginator__x1_talk_png_1354836032_56
+    21300114: npc_deimaginator__x1_talk_png_1354836032_57
+    21300116: npc_deimaginator__x1_talk_png_1354836032_58
+    21300118: npc_deimaginator__x1_talk_png_1354836032_59
+    21300120: npc_deimaginator__x1_talk_png_1354836032_60
+    21300122: npc_deimaginator__x1_talk_png_1354836032_61
+    21300124: npc_deimaginator__x1_talk_png_1354836032_62
+    21300126: npc_deimaginator__x1_talk_png_1354836032_63
+    21300128: npc_deimaginator__x1_talk_png_1354836032_64
+    21300130: npc_deimaginator__x1_talk_png_1354836032_65
+    21300132: npc_deimaginator__x1_talk_png_1354836032_66
+    21300134: npc_deimaginator__x1_talk_png_1354836032_67
+    21300136: npc_deimaginator__x1_talk_png_1354836032_68
+    21300138: npc_deimaginator__x1_talk_png_1354836032_69
+    21300140: npc_deimaginator__x1_talk_png_1354836032_70
+    21300142: npc_deimaginator__x1_talk_png_1354836032_71
+    21300144: npc_deimaginator__x1_talk_png_1354836032_72
+    21300146: npc_deimaginator__x1_talk_png_1354836032_73
+    21300148: npc_deimaginator__x1_talk_png_1354836032_74
+    21300150: npc_deimaginator__x1_talk_png_1354836032_75
+    21300152: npc_deimaginator__x1_talk_png_1354836032_76
+    21300154: npc_deimaginator__x1_talk_png_1354836032_77
+    21300156: npc_deimaginator__x1_talk_png_1354836032_78
+    21300158: npc_deimaginator__x1_talk_png_1354836032_79
+    21300160: npc_deimaginator__x1_talk_png_1354836032_80
+    21300162: npc_deimaginator__x1_talk_png_1354836032_81
+    21300164: npc_deimaginator__x1_talk_png_1354836032_82
+    21300166: npc_deimaginator__x1_talk_png_1354836032_83
+    21300168: npc_deimaginator__x1_talk_png_1354836032_84
+    21300170: npc_deimaginator__x1_talk_png_1354836032_85
+    21300172: npc_deimaginator__x1_talk_png_1354836032_86
+    21300174: npc_deimaginator__x1_talk_png_1354836032_87
+    21300176: npc_deimaginator__x1_talk_png_1354836032_88
+    21300178: LizardTalk_0
+    21300180: LizardTalk_1
+    21300182: LizardTalk_2
+    21300184: LizardTalk_3
+    21300186: LizardTalk_4
+    21300188: LizardTalk_5
+    21300190: LizardTalk_6
+    21300192: LizardTalk_7
+    21300194: LizardTalk_8
+    21300196: LizardTalk_9
+    21300198: LizardTalk_10
+    21300200: LizardTalk_11
+    21300202: LizardTalk_12
+    21300204: LizardTalk_13
+    21300206: LizardTalk_14
+    21300208: LizardTalk_15
+    21300210: LizardTalk_16
+    21300212: LizardTalk_17
+    21300214: LizardTalk_18
+    21300216: LizardTalk_19
+    21300218: LizardTalk_20
+    21300220: LizardTalk_21
+    21300222: LizardTalk_22
+    21300224: LizardTalk_23
+    21300226: LizardTalk_24
+    21300228: LizardTalk_25
+    21300230: LizardTalk_26
+    21300232: LizardTalk_27
+    21300234: LizardTalk_28
+    21300236: LizardTalk_29
+    21300238: LizardTalk_30
+    21300240: LizardTalk_31
+    21300242: LizardTalk_32
+    21300244: LizardTalk_33
+    21300246: LizardTalk_34
+    21300248: LizardTalk_35
+    21300250: LizardTalk_36
+    21300252: LizardTalk_37
+    21300254: LizardTalk_38
+    21300256: LizardTalk_39
+    21300258: LizardTalk_40
+    21300260: LizardTalk_41
+    21300262: LizardTalk_42
+    21300264: LizardTalk_43
+    21300266: LizardTalk_44
+    21300268: LizardTalk_45
+    21300270: LizardTalk_46
+    21300272: LizardTalk_47
+    21300274: LizardTalk_48
+    21300276: LizardTalk_49
+    21300278: LizardTalk_50
+    21300280: LizardTalk_51
+    21300282: LizardTalk_52
+    21300284: LizardTalk_53
+    21300286: LizardTalk_54
+    21300288: LizardTalk_55
+    21300290: LizardTalk_56
+    21300292: LizardTalk_57
+    21300294: LizardTalk_58
+    21300296: LizardTalk_59
+    21300298: LizardTalk_60
+    21300300: LizardTalk_61
+    21300302: LizardTalk_62
+    21300304: LizardTalk_63
+    21300306: LizardTalk_64
+    21300308: LizardTalk_65
+    21300310: LizardTalk_66
+    21300312: LizardTalk_67
+    21300314: LizardTalk_68
+    21300316: LizardTalk_69
+    21300318: LizardTalk_70
+    21300320: LizardTalk_71
+    21300322: LizardTalk_72
+    21300324: LizardTalk_73
+    21300326: LizardTalk_74
+    21300328: LizardTalk_75
+    21300330: LizardTalk_76
+    21300332: LizardTalk_77
+    21300334: LizardTalk_78
+    21300336: LizardTalk_79
+    21300338: LizardTalk_80
+    21300340: LizardTalk_81
+    21300342: LizardTalk_82
+    21300344: LizardTalk_83
+    21300346: LizardTalk_84
+    21300348: LizardTalk_85
+    21300350: LizardTalk_86
+    21300352: LizardTalk_87
+    21300354: LizardTalk_88
+    21300356: LizardAttacking_0
+    21300358: LizardAttacking_1
+    21300360: LizardAttacking_2
+    21300362: LizardAttacking_3
+    21300364: LizardAttacking_4
+    21300366: LizardAttacking_5
+    21300368: LizardAttacking_6
+    21300370: LizardAttacking_7
+    21300372: LizardAttacking_8
+    21300374: LizardAttacking_9
+    21300376: LizardAttacking_10
+    21300378: LizardAttacking_11
+    21300380: LizardAttacking_12
+    21300382: LizardAttacking_13
+    21300384: LizardAttacking_14
+    21300386: LizardAttacking_15
+    21300388: LizardAttacking_16
+    21300390: LizardAttacking_17
+    21300392: LizardAttacking_18
+    21300394: LizardAttacking_19
+    21300396: LizardAttacking_20
+    21300398: LizardAttacking_21
+    21300400: LizardAttacking_22
+    21300402: LizardAttacking_23
+    21300404: LizardAttacking_24
+    21300406: LizardAttacking_25
+    21300408: LizardAttacking_26
+    21300410: LizardAttacking_27
+    21300412: LizardAttacking_28
+    21300414: LizardAttacking_29
+    21300416: LizardAttacking_30
+    21300418: LizardAttacking_31
+    21300420: LizardAttacking_32
+    21300422: LizardAttacking_33
+    21300424: LizardAttacking_34
+    21300426: LizardAttacking_35
+    21300428: LizardAttacking_36
+    21300430: LizardAttacking_37
+    21300432: LizardAttacking_38
+    21300434: LizardAttacking_39
+    21300436: LizardAttacking_40
+    21300438: LizardAttacking_41
+    21300440: LizardAttacking_42
+    21300442: LizardAttacking_43
+    21300444: LizardAttacking_44
+    21300446: LizardAttacking_45
+    21300448: LizardAttacking_46
+    21300450: LizardAttacking_47
+    21300452: LizardAttacking_48
+    21300454: LizardAttacking_49
+    21300456: LizardAttacking_50
+    21300458: LizardAttacking_51
+    21300460: LizardAttacking_52
+    21300462: LizardAttacking_53
+    21300464: LizardAttacking_54
+    21300466: LizardAttacking_55
+    21300468: LizardAttacking_56
+    21300470: LizardAttacking_57
+    21300472: LizardAttacking_58
+    21300474: LizardAttacking_59
+    21300476: LizardAttacking_60
+    21300478: LizardAttacking_61
+    21300480: LizardAttacking_62
+    21300482: LizardAttacking_63
+    21300484: LizardAttacking_64
+    21300486: LizardAttacking_65
+    21300488: LizardAttacking_66
+    21300490: LizardAttacking_67
+    21300492: LizardAttacking_68
+    21300494: LizardAttacking_69
+    21300496: LizardAttacking_70
+    21300498: LizardAttacking_71
+    21300500: LizardAttacking_72
+    21300502: LizardAttacking_73
+    21300504: LizardAttacking_74
+    21300506: LizardAttacking_75
+    21300508: LizardAttacking_76
+    21300510: LizardAttacking_77
+    21300512: LizardAttacking_78
+    21300514: LizardAttacking_79
+    21300516: LizardAttacking_80
+    21300518: LizardAttacking_81
+    21300520: LizardAttacking_82
+    21300522: LizardAttacking_83
+    21300524: LizardAttacking_84
+    21300526: LizardAttacking_85
+    21300528: LizardAttacking_86
+    21300530: LizardAttacking_87
+    21300532: LizardAttacking_88
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LizardAttacking_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 26}
+        - {x: -40, y: -17}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 30}
+        - {x: -40, y: -12}
+        - {x: -29, y: -43}
+        - {x: -24, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -18}
+    - name: LizardAttacking_3
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 24}
+        - {x: -40, y: -1}
+        - {x: -27, y: -42}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 24}
+        - {x: -40, y: -1}
+        - {x: -27, y: -42}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -27, y: 43}
+        - {x: -40, y: 29}
+        - {x: -40, y: -13}
+        - {x: -29, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_6
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -34, y: 33}
+        - {x: -40, y: 21}
+        - {x: -40, y: -16}
+        - {x: -29, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_7
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 37}
+        - {x: 1, y: 43}
+        - {x: -28, y: 43}
+        - {x: -40, y: 30}
+        - {x: -40, y: -24}
+        - {x: -35, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_8
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -40, y: 26}
+        - {x: -40, y: 1}
+        - {x: -28, y: -42}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 13, y: -43}
+        - {x: 40, y: -34}
+        - {x: 40, y: -18}
+        - {x: 8, y: 43}
+    - name: LizardAttacking_9
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 36}
+        - {x: 1, y: 43}
+        - {x: -27, y: 43}
+        - {x: -40, y: 25}
+        - {x: -40, y: 0}
+        - {x: -27, y: -41}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_10
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 43}
+        - {x: -25, y: 43}
+        - {x: -40, y: 23}
+        - {x: -40, y: 3}
+        - {x: -30, y: -39}
+        - {x: -26, y: -40}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_11
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 952
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 43}
+        - {x: -39.5, y: 32}
+        - {x: -39.5, y: -22}
+        - {x: -33.5, y: -43}
+        - {x: 11.5, y: -43}
+        - {x: 39.5, y: -38}
+        - {x: 39.5, y: -10}
+        - {x: 3.5, y: 43}
+    - name: LizardAttacking_12
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 952
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -30, y: 43}
+        - {x: -40, y: 24}
+        - {x: -40, y: -9}
+        - {x: -27, y: -41}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_13
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 952
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: 2.5, y: 43}
+        - {x: -24.5, y: 43}
+        - {x: -39.5, y: 28}
+        - {x: -39.5, y: -2}
+        - {x: -37.5, y: -11}
+        - {x: -27.5, y: -41}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_14
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 952
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: 2.5, y: 43}
+        - {x: -31.5, y: 43}
+        - {x: -39.5, y: 25}
+        - {x: -39.5, y: -15}
+        - {x: -30.5, y: -43}
+        - {x: -24.5, y: -43}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 766
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: 2.5, y: 43}
+        - {x: -24.5, y: 43}
+        - {x: -39.5, y: 27}
+        - {x: -39.5, y: -4}
+        - {x: -31.5, y: -43}
+        - {x: -23.5, y: -43}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 766
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: 2.5, y: 43}
+        - {x: -24.5, y: 43}
+        - {x: -39.5, y: 27}
+        - {x: -39.5, y: -4}
+        - {x: -31.5, y: -43}
+        - {x: -23.5, y: -43}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 766
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: 2.5, y: 43}
+        - {x: -24.5, y: 43}
+        - {x: -39.5, y: 27}
+        - {x: -39.5, y: -4}
+        - {x: -31.5, y: -43}
+        - {x: -23.5, y: -43}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_18
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 766
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: 2.5, y: 43}
+        - {x: -31.5, y: 43}
+        - {x: -39.5, y: 26}
+        - {x: -39.5, y: -23}
+        - {x: -31.5, y: -43}
+        - {x: -23.5, y: -43}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_19
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 766
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 43}
+        - {x: -39.5, y: 43}
+        - {x: -39.5, y: -30}
+        - {x: -27.5, y: -41}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 14.5, y: -43}
+        - {x: 39.5, y: -34}
+        - {x: 39.5, y: -16}
+        - {x: 14.5, y: 39}
+    - name: LizardAttacking_20
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 766
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 43}
+        - {x: -40, y: 43}
+        - {x: -40, y: -15}
+        - {x: -34, y: -43}
+        - {x: -21, y: -43}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: 25}
+    - name: LizardAttacking_21
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 766
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 43}
+        - {x: -40, y: 27}
+        - {x: -40, y: -6}
+        - {x: -31, y: -43}
+        - {x: -22, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 21, y: -43}
+        - {x: 40, y: -36}
+        - {x: 40, y: -16}
+        - {x: 3, y: 43}
+    - name: LizardAttacking_22
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 766
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 43}
+        - {x: -40, y: 34}
+        - {x: -40, y: -31}
+        - {x: -37, y: -43}
+        - {x: -31, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 10, y: -43}
+        - {x: 40, y: -36}
+        - {x: 40, y: -5}
+        - {x: 17, y: 43}
+    - name: LizardAttacking_23
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 766
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 43.5}
+        - {x: -27, y: 43.5}
+        - {x: -40, y: 37.5}
+        - {x: -40, y: -24.5}
+        - {x: -38, y: -43.5}
+        - {x: 20, y: -43.5}
+        - {x: 37, y: -35.5}
+        - {x: 40, y: -32.5}
+        - {x: 40, y: -19.5}
+    - name: LizardAttacking_24
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 766
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 43.5}
+        - {x: -30.5, y: 43.5}
+        - {x: -40.5, y: 33.5}
+        - {x: -40.5, y: -22.5}
+        - {x: -35.5, y: -43.5}
+        - {x: -25.5, y: -43.5}
+        - {x: -15.5, y: -40.5}
+        - {x: -10.5, y: -37.5}
+        - {x: -8.5, y: -43.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 40.5, y: -36.5}
+        - {x: 40.5, y: -0.5}
+        - {x: 22.5, y: 42.5}
+    - name: LizardAttacking_25
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 766
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 43.5}
+        - {x: -32.5, y: 43.5}
+        - {x: -40.5, y: 36.5}
+        - {x: -40.5, y: -33.5}
+        - {x: -37.5, y: -43.5}
+        - {x: -28.5, y: -43.5}
+        - {x: -15.5, y: -40.5}
+        - {x: -10.5, y: -37.5}
+        - {x: -8.5, y: -43.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 40.5, y: -36.5}
+        - {x: 40.5, y: -0.5}
+        - {x: 22.5, y: 42.5}
+    - name: LizardAttacking_26
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 766
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 43.5}
+        - {x: -25.5, y: 43.5}
+        - {x: -40.5, y: 23.5}
+        - {x: -40.5, y: -20.5}
+        - {x: -33.5, y: -43.5}
+        - {x: -29.5, y: -43.5}
+        - {x: -15.5, y: -40.5}
+        - {x: -10.5, y: -37.5}
+        - {x: -8.5, y: -43.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 40.5, y: -36.5}
+        - {x: 40.5, y: -4.5}
+        - {x: 19.5, y: 39.5}
+    - name: LizardAttacking_27
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 766
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -40.5}
+        - {x: -31.5, y: -43.5}
+        - {x: 18.5, y: -43.5}
+        - {x: 40.5, y: -39.5}
+        - {x: 40.5, y: -0.5}
+        - {x: 19.5, y: 39.5}
+        - {x: 16.5, y: 43.5}
+        - {x: -29.5, y: 43.5}
+        - {x: -40.5, y: 38.5}
+    - name: LizardAttacking_28
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 766
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 43.5}
+        - {x: -40, y: 23.5}
+        - {x: -40, y: -13.5}
+        - {x: -30, y: -40.5}
+        - {x: -13, y: -43.5}
+        - {x: 15, y: -43.5}
+        - {x: 40, y: -34.5}
+        - {x: 40, y: -18.5}
+        - {x: 6, y: 43.5}
+    - name: LizardAttacking_29
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 766
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -25, y: 43}
+        - {x: -40, y: 27}
+        - {x: -40, y: -24}
+        - {x: -32, y: -43}
+        - {x: -23, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 43}
+        - {x: -40, y: 31}
+        - {x: -40, y: -17}
+        - {x: -33, y: -43}
+        - {x: -21, y: -43}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 19, y: -43}
+        - {x: 40, y: -34}
+        - {x: 40, y: -20}
+        - {x: 4, y: 43}
+    - name: LizardAttacking_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 43}
+        - {x: -40, y: 43}
+        - {x: -40, y: -24}
+        - {x: -34, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: 24}
+    - name: LizardAttacking_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 580
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 37}
+        - {x: 3.5, y: 43}
+        - {x: -39.5, y: 43}
+        - {x: -39.5, y: -31}
+        - {x: -27.5, y: -41}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_33
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 580
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: 2.5, y: 43}
+        - {x: -24.5, y: 43}
+        - {x: -39.5, y: 27}
+        - {x: -39.5, y: -5}
+        - {x: -32.5, y: -43}
+        - {x: -21.5, y: -43}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_34
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 580
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 35}
+        - {x: 2.5, y: 43}
+        - {x: -24.5, y: 43}
+        - {x: -39.5, y: 26}
+        - {x: -39.5, y: 5}
+        - {x: -38.5, y: 2}
+        - {x: -29.5, y: -43}
+        - {x: -25.5, y: -43}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+    - name: LizardAttacking_35
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 580
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 43}
+        - {x: -30.5, y: 43}
+        - {x: -39.5, y: 24}
+        - {x: -39.5, y: -10}
+        - {x: -27.5, y: -41}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -34}
+        - {x: 39.5, y: -18}
+    - name: LizardAttacking_36
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 580
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 43}
+        - {x: -25.5, y: 43}
+        - {x: -39.5, y: 34}
+        - {x: -39.5, y: -32}
+        - {x: -36.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -20}
+        - {x: 8.5, y: 35}
+    - name: LizardAttacking_37
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 39}
+        - {x: 8, y: 43}
+        - {x: -39, y: 43}
+        - {x: -40, y: 40}
+        - {x: -40, y: -29}
+        - {x: -29, y: -43}
+        - {x: -21, y: -43}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -33}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_38
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 580
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 41}
+        - {x: 5.5, y: 43}
+        - {x: -33.5, y: 43}
+        - {x: -39.5, y: 34}
+        - {x: -39.5, y: -2}
+        - {x: -28.5, y: -43}
+        - {x: -16.5, y: -40}
+        - {x: -11.5, y: -37}
+        - {x: -9.5, y: -43}
+        - {x: 8.5, y: -43}
+        - {x: 36.5, y: -35}
+        - {x: 39.5, y: -32}
+        - {x: 39.5, y: -19}
+    - name: LizardAttacking_39
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 43}
+        - {x: -30, y: 43}
+        - {x: -40, y: 25}
+        - {x: -40, y: -18}
+        - {x: -31, y: -40}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_40
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 43}
+        - {x: -28, y: 43}
+        - {x: -40, y: 25}
+        - {x: -40, y: -11}
+        - {x: -27, y: -43}
+        - {x: -24, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_41
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 43}
+        - {x: -40, y: 22}
+        - {x: -40, y: -43}
+        - {x: 40, y: -43}
+        - {x: 40, y: -3}
+        - {x: 10, y: 43}
+    - name: LizardAttacking_42
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -40, y: 27}
+        - {x: -40, y: -3}
+        - {x: -28, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 40, y: -34}
+        - {x: 40, y: -16}
+        - {x: 8, y: 43}
+    - name: LizardAttacking_43
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 37}
+        - {x: 0, y: 43}
+        - {x: -33, y: 43}
+        - {x: -40, y: 23}
+        - {x: -40, y: -17}
+        - {x: -30, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_44
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 580
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 26}
+        - {x: -40, y: -17}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 30}
+        - {x: -40, y: -12}
+        - {x: -29, y: -43}
+        - {x: -24, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -18}
+    - name: LizardAttacking_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 24}
+        - {x: -40, y: -1}
+        - {x: -27, y: -42}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_48
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 24}
+        - {x: -40, y: -1}
+        - {x: -27, y: -42}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_49
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -27, y: 43}
+        - {x: -40, y: 29}
+        - {x: -40, y: -13}
+        - {x: -29, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_50
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -34, y: 33}
+        - {x: -40, y: 21}
+        - {x: -40, y: -16}
+        - {x: -29, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_51
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_52
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -28, y: 43}
+        - {x: -40, y: 32}
+        - {x: -40, y: -17}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_53
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 25}
+        - {x: -40, y: -16}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_54
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 31}
+        - {x: -40, y: -16}
+        - {x: -31, y: -43}
+        - {x: -21, y: -43}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_55
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -34, y: 33}
+        - {x: -40, y: 21}
+        - {x: -40, y: -16}
+        - {x: -29, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_56
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_57
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 24}
+        - {x: -40, y: -16}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_58
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 20}
+        - {x: -40, y: 3}
+        - {x: -27, y: -41}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_59
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 394
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 28}
+        - {x: -40, y: -13}
+        - {x: -30, y: -43}
+        - {x: -24, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -30, y: 43}
+        - {x: -40, y: 38}
+        - {x: -40, y: -25}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 28}
+        - {x: -40, y: -13}
+        - {x: -30, y: -43}
+        - {x: -24, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_62
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 26}
+        - {x: -40, y: -6}
+        - {x: -33, y: -34}
+        - {x: -27, y: -41}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_63
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -40, y: 43}
+        - {x: -40, y: -29}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_64
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_65
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 24}
+        - {x: -40, y: -16}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_66
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 20}
+        - {x: -40, y: 3}
+        - {x: -27, y: -41}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_67
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -27, y: 43}
+        - {x: -40, y: 30}
+        - {x: -40, y: -17}
+        - {x: -31, y: -43}
+        - {x: -23, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_68
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -27, y: 43}
+        - {x: -40, y: 30}
+        - {x: -40, y: -17}
+        - {x: -31, y: -43}
+        - {x: -23, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_69
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -40, y: 25}
+        - {x: -40, y: -7}
+        - {x: -38, y: -16}
+        - {x: -28, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 10, y: -43}
+        - {x: 40, y: -36}
+        - {x: 40, y: -7}
+        - {x: 14, y: 43}
+    - name: LizardAttacking_70
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -38}
+        - {x: -32, y: -43}
+        - {x: 21, y: -43}
+        - {x: 40, y: -36}
+        - {x: 40, y: -11}
+        - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 25}
+    - name: LizardAttacking_71
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -30, y: 43}
+        - {x: -40, y: 32}
+        - {x: -40, y: -17}
+        - {x: -30, y: -43}
+        - {x: -24, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_72
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 20}
+        - {x: -40, y: 3}
+        - {x: -27, y: -41}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_73
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 28}
+        - {x: -40, y: -13}
+        - {x: -30, y: -43}
+        - {x: -24, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_74
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 208
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -30, y: 43}
+        - {x: -40, y: 38}
+        - {x: -40, y: -25}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_75
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 28}
+        - {x: -40, y: -13}
+        - {x: -30, y: -43}
+        - {x: -24, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 26}
+        - {x: -40, y: -6}
+        - {x: -33, y: -34}
+        - {x: -27, y: -41}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_77
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -40, y: 43}
+        - {x: -40, y: -29}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_78
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_79
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_80
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -28, y: 43}
+        - {x: -40, y: 32}
+        - {x: -40, y: -17}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_81
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 25}
+        - {x: -40, y: -16}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_82
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 31}
+        - {x: -40, y: -16}
+        - {x: -31, y: -43}
+        - {x: -21, y: -43}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_83
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -40, y: 25}
+        - {x: -40, y: -16}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_84
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -31, y: 43}
+        - {x: -40, y: 31}
+        - {x: -40, y: -16}
+        - {x: -31, y: -43}
+        - {x: -21, y: -43}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_85
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -28, y: 43}
+        - {x: -40, y: 32}
+        - {x: -40, y: -17}
+        - {x: -28, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -34}
+        - {x: 40, y: -19}
+    - name: LizardAttacking_86
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 43}
+        - {x: -24, y: 43}
+        - {x: -27, y: 42}
+        - {x: -34, y: 33}
+        - {x: -40, y: 21}
+        - {x: -40, y: -16}
+        - {x: -29, y: -43}
+        - {x: -26, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_87
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    - name: LizardAttacking_88
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 22
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 43}
+        - {x: -26, y: 43}
+        - {x: -30, y: 42}
+        - {x: -40, y: 27}
+        - {x: -40, y: -8}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -16, y: -40}
+        - {x: -11, y: -37}
+        - {x: -9, y: -43}
+        - {x: 9, y: -43}
+        - {x: 37, y: -35}
+        - {x: 40, y: -32}
+        - {x: 40, y: -20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

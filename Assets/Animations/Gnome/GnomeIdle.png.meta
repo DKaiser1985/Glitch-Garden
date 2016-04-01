@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 9aa0aed63c3b60c45a7637a40b0f1b21
+timeCreated: 1458929464
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GnomeIdle_0
+    21300002: GnomeIdle_1
+    21300004: GnomeIdle_2
+    21300006: GnomeIdle_3
+    21300008: GnomeIdle_4
+    21300010: GnomeIdle_5
+    21300012: GnomeIdle_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GnomeIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeIdle_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeIdle_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeIdle_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeIdle_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeIdle_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeIdle_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

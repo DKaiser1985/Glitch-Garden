@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: 9ed034242a402fa428dda05a5e0a6262
+timeCreated: 1458929446
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GnomeAttack_0
+    21300002: GnomeAttack_1
+    21300004: GnomeAttack_2
+    21300006: GnomeAttack_3
+    21300008: GnomeAttack_4
+    21300010: GnomeAttack_5
+    21300012: GnomeAttack_6
+    21300014: GnomeAttack_7
+    21300016: GnomeAttack_8
+    21300018: GnomeAttack_9
+    21300020: GnomeAttack_10
+    21300022: GnomeAttack_11
+    21300024: GnomeAttack_12
+    21300026: GnomeAttack_13
+    21300028: GnomeAttack_14
+    21300030: GnomeAttack_15
+    21300032: GnomeAttack_16
+    21300034: GnomeAttack_17
+    21300036: GnomeAttack_18
+    21300038: GnomeAttack_19
+    21300040: GnomeAttack_20
+    21300042: GnomeAttack_21
+    21300044: GnomeAttack_22
+    21300046: GnomeAttack_23
+    21300048: GnomeAttack_24
+    21300050: GnomeAttack_25
+    21300052: GnomeAttack_26
+    21300054: GnomeAttack_27
+    21300056: GnomeAttack_28
+    21300058: GnomeAttack_29
+    21300060: GnomeAttack_30
+    21300062: GnomeAttack_31
+    21300064: GnomeAttack_32
+    21300066: GnomeAttack_33
+    21300068: GnomeAttack_34
+    21300070: GnomeAttack_35
+    21300072: GnomeAttack_36
+    21300074: GnomeAttack_37
+    21300076: GnomeAttack_38
+    21300078: GnomeAttack_39
+    21300080: GnomeAttack_40
+    21300082: GnomeAttack_41
+    21300084: GnomeAttack_42
+    21300086: GnomeAttack_43
+    21300088: GnomeAttack_44
+    21300090: GnomeAttack_45
+    21300092: GnomeAttack_46
+    21300094: GnomeAttack_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GnomeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 450
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_21
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 300
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_31
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_33
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 150
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_45
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_46
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    - name: GnomeAttack_47
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 81
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -150}
+        - {x: 81, y: -150}
+        - {x: 81, y: -95}
+        - {x: 57, y: -19}
+        - {x: 12, y: -19}
+        - {x: 0, y: -63}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
