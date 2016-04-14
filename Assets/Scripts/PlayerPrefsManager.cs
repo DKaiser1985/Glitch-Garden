@@ -24,7 +24,7 @@ public class PlayerPrefsManager : MonoBehaviour {
     }
     public static void UnlockLevel(int level)
     {
-        if(level <= Application.levelCount - 1) {
+        if(level <= SceneManager.sceneCountInBuildSettings - 1) {
             PlayerPrefs.SetInt(LEVEL_KEY + level.ToString(), 1); //Use 1 for true
         } else
         {
@@ -36,7 +36,7 @@ public class PlayerPrefsManager : MonoBehaviour {
         int levelValue = PlayerPrefs.GetInt(LEVEL_KEY + level.ToString());
         bool isLevelUnlocked = (levelValue == 1);
 
-        if (level <= Application.levelCount - 1)
+        if (level <= SceneManager.sceneCountInBuildSettings - 1)
         {
             return isLevelUnlocked;
         }
